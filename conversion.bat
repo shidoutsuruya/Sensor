@@ -1,0 +1,1 @@
+pyuic5 -o homework.py homework.ui
